@@ -1,11 +1,8 @@
 # Eternal Prometheus Mod Ekibi
 
-![Eternal Prometheus Logo](https://github.com/Ethernal-Prometheus-Mod-Ekibi/.github/assets/94696947/d5f6a253-a492-4b94-8245-e9743836e4f7) 
+https://github.com/Ethernal-Prometheus-Mod-Ekibi/.github/assets/94696947/b515c9dd-8e57-4936-9f8e-8fa7bd657849
 
-https://github.com/Ethernal-Prometheus-Mod-Ekibi/.github/assets/94696947/f4ac7e10-84b7-4dff-9300-98a9bf39fdf2
-
-
-
+<img align="left" width="200" height="200" src="https://github.com/Ethernal-Prometheus-Mod-Ekibi/.github/assets/94696947/d5f6a253-a492-4b94-8245-e9743836e4f7" alt="image" />
 Hoş geldiniz! Biz, Eternal Prometheus Mod Ekibi olarak X4 Foundations oyununa yeni bir soluk katmak ve oyun deneyimini Türkçe olarak daha da zenginleştirmek için buradayız. HeX ve Naxre olarak şu anda iki kişiyiz ve oyunseverlere daha iyi bir deneyim sunmak amacıyla bir araya geldik.
 
 ## Proje Hakkında
